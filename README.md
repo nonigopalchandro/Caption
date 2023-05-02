@@ -16,6 +16,9 @@ this is a Caption php script with admin panel. it's a birthday based script. it 
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/4.png?raw=true)
 
 # Developer
-**Name:** [Noni Gopal Chandro](https://nonigopal.com/)
-**Email:** [nonigopalchandro@gmail.com](mailto:nonigopalchandro@gmail.com)
-**Whatsapp:** [+8801734173832](tel:+8801734173832)
+Name: [Noni Gopal Chandro](https://nonigopal.com/)
+Email: [nonigopalchandro@gmail.com](mailto:nonigopalchandro@gmail.com)
+Whatsapp: [+8801734173832](tel:+8801734173832)
+Codecanyon: [Portfolio](https://codecanyon.net/user/devecity/portfolio)
+3DOcean: [3D Models](https://3docean.net/user/devecity/portfolio)
+linkdin: [Profile](https://www.linkedin.com/in/nonibd/)
