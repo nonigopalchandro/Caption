@@ -1,0 +1,10 @@
+[02-Apr-2023 13:46:22 UTC] PHP Warning:  require_once(meta.php): failed to open stream: No such file or directory in /home/noni/caption.nonigopal.com/admin/head.php on line 40
+[02-Apr-2023 13:46:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'meta.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/noni/caption.nonigopal.com/admin/head.php on line 40
+[02-Apr-2023 13:46:25 UTC] PHP Warning:  require_once(meta.php): failed to open stream: No such file or directory in /home/noni/caption.nonigopal.com/admin/head.php on line 40
+[02-Apr-2023 13:46:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'meta.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/noni/caption.nonigopal.com/admin/head.php on line 40
+[02-Apr-2023 13:46:28 UTC] PHP Warning:  require_once(meta.php): failed to open stream: No such file or directory in /home/noni/caption.nonigopal.com/admin/head.php on line 40
+[02-Apr-2023 13:46:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'meta.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/noni/caption.nonigopal.com/admin/head.php on line 40
+[02-Apr-2023 13:47:52 UTC] PHP Warning:  require_once(meta.php): failed to open stream: No such file or directory in /home/noni/caption.nonigopal.com/admin/head.php on line 19
+[02-Apr-2023 13:47:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'meta.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/noni/caption.nonigopal.com/admin/head.php on line 19
+[02-Apr-2023 13:47:54 UTC] PHP Warning:  require_once(meta.php): failed to open stream: No such file or directory in /home/noni/caption.nonigopal.com/admin/head.php on line 19
+[02-Apr-2023 13:47:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'meta.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/noni/caption.nonigopal.com/admin/head.php on line 19
