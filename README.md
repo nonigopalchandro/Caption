@@ -3,6 +3,8 @@ this is a Caption php script with admin panel. it's a birthday based script. it 
 
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/1.png?raw=true)
 
+**Post From Profile**
+
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/2.png?raw=true)
 
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/3.png?raw=true)
