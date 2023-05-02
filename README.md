@@ -3,10 +3,18 @@ this is a Caption php script with admin panel. it's a birthday based script. it 
 
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/1.png?raw=true)
 
-**Post From Profile**
+**Showing All Posts From Writter Profile**
 
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/2.png?raw=true)
-**Single Page**
+
+**Read The Clicked Caption From Single Page**
+
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/3.png?raw=true)
-**All Writter List**
+
+**All Writter List To Show Writterss Profile**
+
 ![alt text](https://github.com/nonigopalchandro/Caption/blob/main/preview/4.png?raw=true)
+
+# Developer
+[Noni Gopal Chandro](https://nonigopal.com/)
+[nonigopalchandro@gmail.com](mailto:nonigopalchandro@gmail.com)
